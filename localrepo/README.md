@@ -2,4 +2,8 @@
 <br>
 this folder contains the a html and a css file
 <br>
+<<<<<<< HEAD
 this is a new feature(Dropdown)
+=======
+this is a new feature (button1)
+>>>>>>> main
